@@ -1,5 +1,5 @@
 ﻿
-using Curso;
+using Entidade;
 using System.Globalization;
 namespace Course
 {

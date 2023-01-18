@@ -1,6 +1,6 @@
 ﻿
 
-namespace Curso
+namespace Entidade
 {
     internal class Triangulo
     {
